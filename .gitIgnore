@@ -9,3 +9,4 @@
 #make sure to ignore "notes"
 resources/includes/notes.txt
 
+/.idea/
